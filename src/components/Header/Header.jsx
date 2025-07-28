@@ -138,14 +138,9 @@ const Header = () => {
                             <span>Contact</span>
                         </button>
                     </li>
-                    <li className="nav__item">
-                        <a href="/resume.pdf" download className="nav__link nav__link--button">
-                            <FileEarmarkTextFill className="nav__icon" />
-                            <span>Download CV</span>
-                        </a>
-                    </li>
                 </ul>
             </nav>
+
         </header>
     );
 };
