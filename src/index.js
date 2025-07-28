@@ -13,6 +13,6 @@ root.render(
   </React.StrictMode>
 );
 
-// Change this to register() to enable PWA features
+// Change this to register() to enable PWA features okay
 serviceWorkerRegistration.register();
 reportWebVitals();
