@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac5e61ad.css",
-    "main.js": "/static/js/main.55edad34.js",
-    "static/js/453.a5b25d5b.chunk.js": "/static/js/453.a5b25d5b.chunk.js",
-    "index.html": "/index.html",
-    "main.ac5e61ad.css.map": "/static/css/main.ac5e61ad.css.map",
-    "main.55edad34.js.map": "/static/js/main.55edad34.js.map",
-    "453.a5b25d5b.chunk.js.map": "/static/js/453.a5b25d5b.chunk.js.map"
+    "main.css": "/PWAApp/static/css/main.ac5e61ad.css",
+    "main.js": "/PWAApp/static/js/main.82f8eb92.js",
+    "static/js/453.a5b25d5b.chunk.js": "/PWAApp/static/js/453.a5b25d5b.chunk.js",
+    "index.html": "/PWAApp/index.html",
+    "main.ac5e61ad.css.map": "/PWAApp/static/css/main.ac5e61ad.css.map",
+    "main.82f8eb92.js.map": "/PWAApp/static/js/main.82f8eb92.js.map",
+    "453.a5b25d5b.chunk.js.map": "/PWAApp/static/js/453.a5b25d5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac5e61ad.css",
-    "static/js/main.55edad34.js"
+    "static/js/main.82f8eb92.js"
   ]
 }
